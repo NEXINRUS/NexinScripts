@@ -56,7 +56,7 @@ if LocalPLR.Name ~= Username then
         Time = 6
     })
 
-    local latestVersion = request({ Url = "https://raw.githubusercontent.com/sixpennyfox4/rbx/refs/heads/main/ControlBotZ%20Version", Method = "GET" }).Body:match("^%s*(.-)%s*$")
+    local latestVersion = request({ Url = "https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/NEXINBOTV2/Version", Method = "GET" }).Body:match("^%s*(.-)%s*$")
     if latestVersion ~= "1.1.3" then
         game:GetService("StarterGui"):SetCore("SendNotification", {
             Title = "Old Version!",
@@ -360,7 +360,7 @@ if LocalPLR.Name ~= Username then
         -- PRINTCMDS:
         if msg:sub(1, 10) == Prefix .. "printcmds" then
 
-            print("\n---------- NEXINBOT CMDS ----------\n" .. request({ Url = "https://raw.githubusercontent.com/sixpennyfox4/rbx/refs/heads/main/ControlBotZ%20Cmds.txt", Method = "GET" }).Body)
+            print("\n---------- NEXINBOT CMDS ----------\n" .. request({ Url = "https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/NEXINBOTV2/Commands", Method = "GET" }).Body)
             if index == 1 then
                 chat("Printed commands to the console!")
             end
