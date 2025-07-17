@@ -17,4 +17,4 @@ Feel free to take and use this however you want.
 ## ⚠️ Known Issues
 
 - Jump command doesn’t work  
-- Could be some bugs
+- Some bugs
