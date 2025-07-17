@@ -132,7 +132,7 @@ whoami           - Display the current user
 dir              - Show fake files/folders
 walkspeed [num]  - Set your WalkSpeed
 jumppower [num]  - Set your JumpPower
-vibemode         - Activate Russian MLG vibemode for 10 seconds
+vibemode         - Activate Russian words vibemode for 10 seconds
 time             - Show local time
 tp [placeid]     - Teleport to another Roblox place
 sit              - Toggle sit/stand
