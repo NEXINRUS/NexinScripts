@@ -1,3 +1,18 @@
+local url = "https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/PalaceBypasser/Version.txt"
+
+local requestFunction = syn and syn.request or http_request or request
+
+local response = requestFunction({
+    Url = url,
+    Method = "GET"
+})
+
+if response and response.StatusCode == 200 then
+    print("Version: " .. response.Body)
+else
+    warn("Failed to fetch value. Status:", response and response.StatusCode)
+end
+
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
