@@ -1,4 +1,4 @@
-# 🖥️ Fake Microsoft Command Prompt (Roblox GUI)
+# 🖥️ Microsoft like CMD terminal
 
 Makes a Microsoft-looking command prompt with custom commands.
 
