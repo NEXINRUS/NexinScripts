@@ -8,6 +8,7 @@ Feel free to take and use this however you want.
 # 📸 Screenshots
 ![CMD Terminal](Screenshots/Screenshot%202025-07-17%20132749.png)
 
+![CMD Terminal](Screenshots/Screenshot2025-07-17132754.png)
 
 ---
 
