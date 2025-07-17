@@ -10,4 +10,4 @@ Feel free to take and use this however you want.
 ## ⚠️ Known Issues
 
 - Jump command doesn’t work  
-- Some bugs here and there
+- Could be some bugs
