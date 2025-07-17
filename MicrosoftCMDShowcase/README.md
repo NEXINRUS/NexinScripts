@@ -1,14 +1,16 @@
-# 🖥️ Microsoft like CMD terminal
+# 🖥️ Microsoft-like CMD Terminal
 
 Makes a Microsoft-looking command prompt with custom commands.
 
 I made this because I thought it was pretty cool.  
 Feel free to take and use this however you want.
 
-# 📸 Screenshots
-![CMD Terminal](Screenshots/Screenshot%202025-07-17%20132749.png)
+---
 
-![CMD Terminal](Screenshots/Screenshot2025-07-17132754.png)
+## 📸 Screenshots
+![CMD Terminal](Screenshots/Screenshot%202025-07-17%20132749.png)
+![CMD Help](Screenshots/Screenshot%202025-07-17%20132754.png)
+![BOTH](Screenshots/Screenshot%202025-07-17%20132800.png)
 
 ---
 
