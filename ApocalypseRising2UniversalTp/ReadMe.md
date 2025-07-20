@@ -5,27 +5,30 @@ Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** official
 
 ---
 
-## 📜 Script
-```lua
+## 📜 Script  
+Paste this into your executor to load the script:
+
+~~~~lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/ApocalypseRising2UniversalTp/Script.lua"))()
-```
+~~~~
 
 ---
 
 ## ⚙️ Features  
 What the script does:  
 - 🧟‍♂️ Teleports dead corpses to you so you can loot the corpses  
-- 🚗 Teleports cars to you
+- 🚗 Teleports cars to you  
 
 ---
 
-## 🔌 Compatibility
+## 🔌 Compatibility  
 ### This tells you what works with this script
-Really any script works with **UniversalTP** but here are scripts that I recommend:
 
-- ✅ [**Den.net**](https://github.com/dengertheguy/den.net) – An **ESP script** for Apocalypse Rising 2  
+Really any script works with **UniversalTP**, but here are some I recommend:
+
+- ✅ [**Den.net**](https://github.com/dengertheguy/den.net) – An ESP script for *Apocalypse Rising 2*  
 - ✅ [**Infinite Yield**](https://infyiff.github.io/Download.html) – ESP and chams support  
-  ⚠️ *Note:* Infinite Yield may break in large games. If it does, simply rejoin and run it again.
+  ⚠️ *Note:* Infinite Yield may break in large games. If it does, just rejoin and run it again.
 
 ---
 
