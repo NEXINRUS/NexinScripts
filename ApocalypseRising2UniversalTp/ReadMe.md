@@ -9,7 +9,8 @@ What the script does:
 - 🚗 Teleports cars to you.
 
 # Compatibility
-This shows what scripts are best to use with **UniversalTP**. 
+This shows what scripts are best to use with **UniversalTP**.
+
 Really any script works with it but I recommend [Den.net](https://github.com/dengertheguy/den.net). It is a esp script for Apocalypse Rising 2.
 [Infinite Yield's](https://infyiff.github.io/Download.html) esp and chams work as well. But sometimes infinite yield breaks when in big games. If it does,  rejoin and run [Infinite Yield](https://infyiff.github.io/Download.html) again.
 
