@@ -2,6 +2,7 @@
 
 ## 📘 Introduction  
 Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** official page for this script, so any others are likely **scams** or **malicious copies**.
+This script is whitelisted at the moment. You  can find whitelisted users [here](https://github.com/NEXINRUS/NexinScripts/blob/main/ApocalypseRising2UniversalTp/Whitelisted.txt).
 
 ---
 
