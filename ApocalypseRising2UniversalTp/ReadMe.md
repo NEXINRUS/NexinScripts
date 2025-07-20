@@ -9,7 +9,7 @@ What the script does:
 - 🚗 Teleports cars to you.
 
 # Compatibility
-This shows what scripts are best to use with **UniversalTP**. Really any script works with it but I recommend [den.net](https://github.com/dengertheguy/den.net)
+This shows what scripts are best to use with **UniversalTP**. Really any script works with it but I recommend **[den.net](https://github.com/dengertheguy/den.net)**
 
 # ⚠️ Important
 When using the **car teleporting** feature, be careful not to enter the vehicle too quickly.  
