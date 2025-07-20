@@ -3,6 +3,11 @@
 ## 📘 Introduction  
 Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** official page for this script, so any others are likely **scams** or **malicious copies**.
 
+## 📜 Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/ApocalypseRising2UniversalTp/Script.lua"))()
+```
+
 ## ⚙️ Features  
 What the script does:  
 - 🧟‍♂️ Teleports dead corpses to you so you can loot the corpses  
@@ -19,10 +24,6 @@ Really any script works with **UniversalTP** but here are scripts that I recomme
   ⚠️ *Note:* Infinite Yield may break in large games. If it does, simply rejoin and run it again.
 
 ---
-## 📜 Script
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/ApocalypseRising2UniversalTp/Script.lua"))()
-```
 
 ## ⚠️ Important  
 When using the **car teleporting** feature, be careful not to enter the vehicle too quickly.  
