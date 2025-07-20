@@ -12,6 +12,7 @@ The script will not be whitelisted in the future but we are still testing bugs a
 You can apply to be whitelisted here: https://discord.gg/MSRucWdS7k
 
 You can find whitelisted users here: https://github.com/NEXINRUS/NexinScripts/blob/main/ApocalypseRising2UniversalTp/Whitelisted.txt
+
 Paste this into your executor to load the script:
 
 ~~~~lua
