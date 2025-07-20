@@ -10,8 +10,9 @@ What the script does:
 
 ---
 
-## 🔌 Compatibility  
-These scripts work well with **UniversalTP**:
+## 🔌 Compatibility
+### This tells you what works with this script
+Really any script works with **UniversalTP** but here are scripts that I recommend:
 
 - ✅ [**Den.net**](https://github.com/dengertheguy/den.net) – An **ESP script** for Apocalypse Rising 2  
 - ✅ [**Infinite Yield**](https://infyiff.github.io/Download.html) – ESP and chams support  
@@ -23,8 +24,8 @@ These scripts work well with **UniversalTP**:
 When using the **car teleporting** feature, be careful not to enter the vehicle too quickly.  
 Doing so may result in being kicked with a message like:
 
-> **"Cream of Mushroom"** 🍄
+> **"Cream of Mushroom"**
 
-Don’t worry — this **doesn’t mean you’re hacking**. It just means the teleport triggered a part of the game’s anticheat system.
+Don’t worry — this **doesn’t mean the admins know you're cheating**. It just means it triggered a part of the game’s anticheat system.
 
 📘 Guides on how to use the features are provided below.
