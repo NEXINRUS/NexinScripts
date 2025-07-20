@@ -1,4 +1,4 @@
-# 👤UniversalT👤 | Apocalypse Rising 2
+# 👤UniversalTP👤 | Apocalypse Rising 2
 
 ## 📘 Introduction  
 Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** GitHub page for this script, so any others are likely **scams** or malicious. 
