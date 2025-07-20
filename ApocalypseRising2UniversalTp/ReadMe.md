@@ -1,7 +1,9 @@
 # 👤 UniversalTP | Apocalypse Rising 2
 
 ## 📜 Script
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/ApocalypseRising2UniversalTp/Script.lua"))()```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXINRUS/NexinScripts/refs/heads/main/ApocalypseRising2UniversalTp/Script.lua"))()
+```
 
 ## 📘 Introduction  
 Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** official page for this script, so any others are likely **scams** or **malicious copies**.
