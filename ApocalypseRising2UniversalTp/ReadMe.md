@@ -40,4 +40,6 @@ Doing so may result in being kicked with a message like:
 
 Don’t worry — this **doesn’t mean the game has detected you cheating**, it just means it triggered a part of the game’s anticheat system.
 
+---
+
 📘 Guides on how to use the features are provided below.
