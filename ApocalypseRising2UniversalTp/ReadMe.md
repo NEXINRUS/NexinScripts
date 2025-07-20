@@ -42,5 +42,5 @@ Don’t worry — this **doesn’t mean the game has detected you cheating**, it
 
 ---
 
-##📘 Guides on how to use the features are provided below.
+## 📘 Guides on how to use the features are provided below.
 
