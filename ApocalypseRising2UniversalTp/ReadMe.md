@@ -50,5 +50,5 @@ Don’t worry — this **doesn’t mean the game has detected you cheating**, it
 ---
 
 ## 📘 Guides on how to use the features are provided below.
-
+The tutorial video is being remade
 [![Watch the guide](https://img.youtube.com/vi/F3aMLwqD5Ks/0.jpg)](https://www.youtube.com/watch?v=F3aMLwqD5Ks)
