@@ -2,6 +2,7 @@
 
 ## 📘 Introduction  
 Hello. Welcome to the **UniversalTP GitHub page**. This is the **only** official page for this script, so any others are likely **scams** or **malicious copies**.
+You can check the screenshots folder to see what the script has accomplished.
 
 ## README
 GOTO THE DISCORD https://discord.gg/MSRucWdS7k  FOR  INFORMATION ABOUT WHY THE SCRIPT IS WHITELISTED CURRENTLY
