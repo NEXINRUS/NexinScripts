@@ -1,0 +1,16 @@
+7/20/25
+-------
+UPDATES / FIXES 
+
+--== Whitelist Service Fixed == --
+
+The issue stemmed from the GitHub-hosted whitelist file not updating or loading quickly enough, which caused some user IDs to fail during validation. 
+This has now been resolved, and the whitelisting process should work reliably. All we did was hard code the id's to the script for faster validation.
+
+--== Removed Key System ==--
+
+Removed the key system because nobody likes them. And because this is a passion project rather than one driven by commerce (money making).
+
+--== Added Ticket System ==--
+
+Added a ticket system so members can get verified/whitelisted to use the script.
